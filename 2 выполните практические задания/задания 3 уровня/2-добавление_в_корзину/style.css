@@ -1,0 +1,17 @@
+.product {
+    width: 300px;
+    height: 350px;
+    padding: 20px;
+    float: left;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+button {
+    display: block;
+}
+.button{
+
+    margin-left: 100px;
+}
+.button1{    margin-top: 50px;}
